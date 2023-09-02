@@ -1,4 +1,4 @@
-## Intention-aware Feature Propagation Network for Interactive Segmentation
+## Cascade Sparse Feature Propagation Network for Interactive Segmentation
 
 Here is the code for training and evaluation. Before that, you need to prepare data by downloading from the following link:
 
